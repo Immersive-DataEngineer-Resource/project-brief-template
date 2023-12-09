@@ -19,23 +19,23 @@
 
 #### Background
 
-`Berisikan uraian masalah yang diberikan secara umum, dan solosi yang diharapkan seperti apa`
+`Berisikan uraian masalah yang diberikan secara umum, dan solusi yang diharapkan seperti apa.`
 
 #### Expected Deliverable
 
-`Bersikan list ekspektasi hasil yang dicapai secara umum, misal bisa menyelesaikan Feature A, B, dan C`
+`Bersikan list ekspektasi hasil yang dicapai secara umum, misal bisa menyelesaikan Feature A, B, dan C.`
 
 #### Success Criteria
 
-`Sukses kriteria adalah penpaian dengan matris yang  kongkrit, contoh: menylesaikan fitur A dengan testing coverate 80%, implementati Trunk Base Development, Implementasi Code Quality, Implmentasi CI/CD, dan lain-lain`
+`Sukses kriteria adalah penpaian dengan matris yang  kongkrit, contoh: menylesaikan fitur A dengan testing coverate 80%, implementati Trunk Base Development, Implementasi Code Quality, Implmentasi CI/CD, dan lain-lain.`
 
 #### Documentation
 
-`Jika ada dokumentasi tambahan yang diberikan ke Mentees`
+`Jika ada dokumentasi tambahan yang diberikan ke Mentees.`
 
 #### Assest
 
-`Jika ada file atau asset pendukung yang diberikan ke Mentees`
+`Jika ada file atau asset pendukung yang diberikan ke Mentees.`
 
 ## 📆 Schedule Meeting and Format Mentoring
 
